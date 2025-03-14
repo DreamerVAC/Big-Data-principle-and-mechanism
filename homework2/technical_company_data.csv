@@ -1,0 +1,48 @@
+Entity1,Relationship,Entity2
+Elon Musk,CEO of,Tesla
+Elon Musk,CEO of,SpaceX
+Elon Musk,Founder of,Neuralink
+Elon Musk,Founder of,The Boring Company
+Steve Jobs,Co-founder of,Apple
+Steve Jobs,Co-founder of,Pixar
+Mark Zuckerberg,Founder of,Facebook
+Jeff Bezos,Founder of,Amazon
+Jeff Bezos,CEO of,Amazon
+Sundar Pichai,CEO of,Google
+Larry Page,Co-founder of,Google
+Sergey Brin,Co-founder of,Google
+Bill Gates,Founder of,Microsoft
+Bill Gates,CEO of,Microsoft
+Satya Nadella,CEO of,Microsoft
+Tim Cook,CEO of,Apple
+Tesla,Founded in,2003
+SpaceX,Founded in,2002
+Apple,Founded in,1976
+Facebook,Founded in,2004
+Amazon,Founded in,1994
+Google,Founded in,1998
+Microsoft,Founded in,1975
+Tesla,Headquartered in,California
+Apple,Headquartered in,Cupertino
+Facebook,Headquartered in,Menlo Park
+Amazon,Headquartered in,Seattle
+Google,Headquartered in,Mountain View
+Microsoft,Headquartered in,Redmond
+IBM,Founded in,1911
+Arvind Krishna,CEO of,IBM
+NVIDIA,Founded in,1993
+Jensen Huang,CEO of,NVIDIA
+Twitter,Founded in,2006
+Jack Dorsey,Co-founder of,Twitter
+Meta,Founded in,2021
+Mark Zuckerberg,CEO of,Meta
+Neuralink,Headquartered in,California
+The Boring Company,Headquartered in,California
+Intel,Founded in,1968
+AMD,Founded in,1969
+Lisa Su,CEO of,AMD
+Pat Gelsinger,CEO of,Intel
+Intel,Headquartered in,Santa Clara
+AMD,Headquartered in,Santa Clara
+OpenAI,Founded in,2015
+Sam Altman,CEO of,OpenAI
